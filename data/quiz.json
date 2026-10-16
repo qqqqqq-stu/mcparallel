@@ -1,0 +1,184 @@
+{
+  "product": [
+    {
+      "id": "pq1",
+      "text": "打开麦当劳菜单，你的眼睛最先找什么？",
+      "options": [
+        {"label": "A", "text": "今天的重磅新品", "delta": {"thrill": 1.5, "refine": 0.5}},
+        {"label": "B", "text": "老三样，闭眼点都不会错", "delta": {"steady": 1.5}},
+        {"label": "C", "text": "哪个打折点哪个", "delta": {"value": 2.0}},
+        {"label": "D", "text": "热量最低的那个", "delta": {"refine": 1.5, "steady": 0.5}}
+      ]
+    },
+    {
+      "id": "pq2",
+      "text": "你的理想一餐是？",
+      "options": [
+        {"label": "A", "text": "一大套吃到扶墙", "delta": {"sustain": 2.0}},
+        {"label": "B", "text": "一口一个小食拼着吃", "delta": {"thrill": 1.0, "value": 1.0}},
+        {"label": "C", "text": "一杯咖啡加个甜点就够了", "delta": {"refine": 2.0}},
+        {"label": "D", "text": "五分钟解决战斗", "delta": {"value": 1.0, "steady": 1.0}}
+      ]
+    },
+    {
+      "id": "pq3",
+      "text": "朋友说你点的餐「很像你」，多半是因为？",
+      "options": [
+        {"label": "A", "text": "分量和我一样实在", "delta": {"sustain": 1.5, "value": 0.5}},
+        {"label": "B", "text": "看着低调，其实很上头", "delta": {"thrill": 1.5}},
+        {"label": "C", "text": "和我一样精致讲究", "delta": {"refine": 2.0}},
+        {"label": "D", "text": "和我一样便宜大碗", "delta": {"value": 2.0}}
+      ]
+    }
+  ],
+  "game": [
+    {
+      "id": "gq1",
+      "text": "决胜局最后十秒，你选？",
+      "options": [
+        {"label": "A", "text": "梭哈！赌一把大的", "delta": {"thrill": 2.0}},
+        {"label": "B", "text": "稳住，等对面先犯错误", "delta": {"steady": 2.0}},
+        {"label": "C", "text": "算好资源，一波带走", "delta": {"sustain": 1.0, "value": 1.0}}
+      ]
+    },
+    {
+      "id": "gq2",
+      "text": "你更喜欢哪种赢法？",
+      "options": [
+        {"label": "A", "text": "极限操作秀翻全场", "delta": {"thrill": 1.5, "refine": 0.5}},
+        {"label": "B", "text": "团战碾压平推到底", "delta": {"sustain": 2.0}},
+        {"label": "C", "text": "阴人于无形，苟到最后", "delta": {"value": 1.0, "steady": 1.0}}
+      ]
+    },
+    {
+      "id": "gq3",
+      "text": "连跪三把之后，你会？",
+      "options": [
+        {"label": "A", "text": "再来！手感要热回来", "delta": {"thrill": 1.5, "sustain": 0.5}},
+        {"label": "B", "text": "下号，吃点好的回血", "delta": {"refine": 1.0, "steady": 1.0}},
+        {"label": "C", "text": "复盘，输也要输明白", "delta": {"value": 1.0, "steady": 1.0}}
+      ]
+    }
+  ],
+  "worker": [
+    {
+      "id": "wq1",
+      "text": "周一早上八点，你的能量来源是？",
+      "options": [
+        {"label": "A", "text": "一杯冰美式，苦但清醒", "delta": {"refine": 1.0, "thrill": 0.5}},
+        {"label": "B", "text": "大早餐，吃饱才有人样", "delta": {"sustain": 2.0}},
+        {"label": "C", "text": "最便宜的套餐，省钱要紧", "delta": {"value": 2.0}}
+      ]
+    },
+    {
+      "id": "wq2",
+      "text": "加班到晚上九点，晚饭怎么解决？",
+      "options": [
+        {"label": "A", "text": "辣的！刺激一下神经", "delta": {"thrill": 2.0}},
+        {"label": "B", "text": "热乎大餐犒劳自己", "delta": {"sustain": 1.5, "refine": 0.5}},
+        {"label": "C", "text": "随便凑合，回家再说", "delta": {"value": 1.5}}
+      ]
+    },
+    {
+      "id": "wq3",
+      "text": "发工资那天，你会？",
+      "options": [
+        {"label": "A", "text": "加个鸡腿，小奢侈一把", "delta": {"sustain": 1.0, "thrill": 0.5}},
+        {"label": "B", "text": "该省省，工资要存", "delta": {"value": 2.0}},
+        {"label": "C", "text": "点个套餐精致一下", "delta": {"refine": 2.0}}
+      ]
+    }
+  ],
+  "creator": [
+    {
+      "id": "cq1",
+      "text": "创作间隙的能量补给，你选？",
+      "options": [
+        {"label": "A", "text": "咖啡，续命刚需", "delta": {"refine": 1.5}},
+        {"label": "B", "text": "甜的，灵感靠糖", "delta": {"thrill": 0.5, "refine": 1.0}},
+        {"label": "C", "text": "管饱的，扛住整个下午", "delta": {"sustain": 2.0}}
+      ]
+    },
+    {
+      "id": "cq2",
+      "text": "你愿意为一顿饭排多久的队？",
+      "options": [
+        {"label": "A", "text": "不排队，时间最贵", "delta": {"value": 1.0, "steady": 1.0}},
+        {"label": "B", "text": "值得的店，两小时也排", "delta": {"refine": 2.0}},
+        {"label": "C", "text": "队伍长说明划算，跟着排", "delta": {"value": 1.5, "thrill": 0.5}}
+      ]
+    },
+    {
+      "id": "cq3",
+      "text": "你的作品和你的外卖，共同点是？",
+      "options": [
+        {"label": "A", "text": "都很炸", "delta": {"thrill": 2.0}},
+        {"label": "B", "text": "都很扎实", "delta": {"sustain": 2.0}},
+        {"label": "C", "text": "都有巧思", "delta": {"refine": 2.0}}
+      ]
+    }
+  ],
+  "streamer": [
+    {
+      "id": "sq1",
+      "text": "直播间的下饭时刻，观众爱看你吃？",
+      "options": [
+        {"label": "A", "text": "挑战变态辣", "delta": {"thrill": 2.0}},
+        {"label": "B", "text": "大胃王速通", "delta": {"sustain": 1.5, "thrill": 0.5}},
+        {"label": "C", "text": "精致小口慢慢品", "delta": {"refine": 2.0}}
+      ]
+    },
+    {
+      "id": "sq2",
+      "text": "整活失败了，你的反应？",
+      "options": [
+        {"label": "A", "text": "那咋了，下一秒继续整", "delta": {"thrill": 1.5}},
+        {"label": "B", "text": "冷静复盘哪里没接住", "delta": {"steady": 1.5, "value": 0.5}},
+        {"label": "C", "text": "和弹幕一起笑自己", "delta": {"refine": 0.5, "value": 1.0}}
+      ]
+    },
+    {
+      "id": "sq3",
+      "text": "下播后的深夜食堂，你点？",
+      "options": [
+        {"label": "A", "text": "辣的，压住今天的疲惫", "delta": {"thrill": 1.5}},
+        {"label": "B", "text": "热乎的，安安静静吃完", "delta": {"sustain": 1.0, "steady": 1.0}},
+        {"label": "C", "text": "甜筒，快乐收尾", "delta": {"refine": 1.5}}
+      ]
+    }
+  ],
+  "mbti": [
+    {
+      "id": "mq1",
+      "text": "聚会散场后，你的真实感受是？",
+      "options": [
+        {"label": "A", "text": "意犹未尽，还想续摊", "letter": "E"},
+        {"label": "B", "text": "终于可以回家了", "letter": "I"}
+      ]
+    },
+    {
+      "id": "mq2",
+      "text": "哪种描述更吸引你？",
+      "options": [
+        {"label": "A", "text": "数据、步骤、可实操", "letter": "S"},
+        {"label": "B", "text": "灵感、隐喻、可能性", "letter": "N"}
+      ]
+    },
+    {
+      "id": "mq3",
+      "text": "朋友向你吐槽，你的第一反应？",
+      "options": [
+        {"label": "A", "text": "这事得客观分析一下", "letter": "T"},
+        {"label": "B", "text": "先抱抱，情绪价值拉满", "letter": "F"}
+      ]
+    },
+    {
+      "id": "mq4",
+      "text": "出发去旅行前，你会？",
+      "options": [
+        {"label": "A", "text": "攻略精确到小时", "letter": "J"},
+        {"label": "B", "text": "到了再说，随缘最香", "letter": "P"}
+      ]
+    }
+  ]
+}

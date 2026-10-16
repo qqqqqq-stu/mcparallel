@@ -1,0 +1,17 @@
+{
+  "tool": "now-time-info",
+  "args": {},
+  "data": {
+    "timestamp": 1792077772689,
+    "datetime": "2026-10-15T23:22:52.689",
+    "formatted": "2026-10-15 23:22:52",
+    "date": "2026-10-15",
+    "year": 2026,
+    "month": 10,
+    "day": 15,
+    "dayOfWeek": "THURSDAY",
+    "timezone": "GMT+08:00",
+    "offset": "+08:00",
+    "utc": "2026-10-15T15:22:52.689Z"
+  }
+}

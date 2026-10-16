@@ -1,0 +1,643 @@
+{
+  "personas": [
+    {
+      "id": "g1",
+      "universe": "game",
+      "name": "峡谷刺客型",
+      "tagline": "要么单杀，要么饿着",
+      "vector": {
+        "thrill": 10,
+        "sustain": 5,
+        "value": 5,
+        "refine": 4,
+        "steady": 2
+      },
+      "keywords": [
+        "极限操作",
+        "爆发",
+        "孤勇",
+        "一击必杀",
+        "赏心悦目"
+      ],
+      "style_note": "语气短促有力，可用通用战术梗（节奏/开团/单杀），夸人要夸张",
+      "sample_line": "这顿不是饭，是你今晚的三杀。"
+    },
+    {
+      "id": "g2",
+      "universe": "game",
+      "name": "团队坦克型",
+      "tagline": "伤害我来扛，锅也我来背",
+      "vector": {
+        "thrill": 4,
+        "sustain": 10,
+        "value": 6,
+        "refine": 3,
+        "steady": 3
+      },
+      "keywords": [
+        "承伤",
+        "开团",
+        "可靠",
+        "后排守护",
+        "续航"
+      ],
+      "style_note": "沉稳可靠，多用「稳住」「有我」句式",
+      "sample_line": "吃饱了，才扛得住下一波团战。"
+    },
+    {
+      "id": "g3",
+      "universe": "game",
+      "name": "指挥打野型",
+      "tagline": "节奏在我，胜利也在我",
+      "vector": {
+        "thrill": 6,
+        "sustain": 8,
+        "value": 7,
+        "refine": 5,
+        "steady": 4
+      },
+      "keywords": [
+        "节奏",
+        "资源意识",
+        "大局观",
+        "反野",
+        "运营"
+      ],
+      "style_note": "条理清晰的指挥腔，爱列一二三四",
+      "sample_line": "先吃什么后吃什么，听我的，这叫运营。"
+    },
+    {
+      "id": "g4",
+      "universe": "game",
+      "name": "苟分老六型",
+      "tagline": "活着，就是最好的输出",
+      "vector": {
+        "thrill": 3,
+        "sustain": 6,
+        "value": 10,
+        "refine": 3,
+        "steady": 7
+      },
+      "keywords": [
+        "隐蔽",
+        "苟",
+        "稳定收益",
+        "不动如山",
+        "苟到最后"
+      ],
+      "style_note": "慢悠悠，惜字如金，偶尔阴恻恻",
+      "sample_line": "别冲动，先吃饱，再蹲下一个机会。"
+    },
+    {
+      "id": "g5",
+      "universe": "game",
+      "name": "极限翻盘型",
+      "tagline": "逆风才好玩，翻盘才叫赢",
+      "vector": {
+        "thrill": 9,
+        "sustain": 7,
+        "value": 5,
+        "refine": 4,
+        "steady": 3
+      },
+      "keywords": [
+        "逆风局",
+        "心态",
+        "爆冷",
+        "放手一搏",
+        "最后一把"
+      ],
+      "style_note": "热血上头，爱用「最后一把」句式",
+      "sample_line": "0 比 5 开局的晚餐，照样能打出翻盘的味道。"
+    },
+    {
+      "id": "g6",
+      "universe": "game",
+      "name": "休闲养老型",
+      "tagline": "游戏嘛，开心就好",
+      "vector": {
+        "thrill": 3,
+        "sustain": 5,
+        "value": 9,
+        "refine": 6,
+        "steady": 7
+      },
+      "keywords": [
+        "佛系",
+        "快乐游戏",
+        "不卷",
+        "随缘",
+        "养老"
+      ],
+      "style_note": "松弛平和，口头禅「随意啦」",
+      "sample_line": "吃什么不重要，重要的是现在不用上班。"
+    },
+    {
+      "id": "w1",
+      "universe": "worker",
+      "name": "DDL极限冲刺型",
+      "tagline": "Deadline 是第一生产力",
+      "vector": {
+        "thrill": 9,
+        "sustain": 8,
+        "value": 8,
+        "refine": 3,
+        "steady": 3
+      },
+      "keywords": [
+        "突击",
+        "救火",
+        "极限交付",
+        "倒计时",
+        "爆肝后要补给"
+      ],
+      "style_note": "语速快，倒计时口吻；熬夜梗点到为止，强调干完就犒劳自己",
+      "sample_line": "距离交付还有三小时，这顿饭必须在十分钟内解决。"
+    },
+    {
+      "id": "w2",
+      "universe": "worker",
+      "name": "通勤生存型",
+      "tagline": "早高峰活下来，就是胜利",
+      "vector": {
+        "thrill": 4,
+        "sustain": 5,
+        "value": 10,
+        "refine": 4,
+        "steady": 8
+      },
+      "keywords": [
+        "通勤",
+        "精打细算",
+        "效率",
+        "早八",
+        " survival"
+      ],
+      "style_note": "疲惫但清醒，句句带省钱账",
+      "sample_line": "地铁两站路的间隙，刚好够一个随心配。"
+    },
+    {
+      "id": "w3",
+      "universe": "worker",
+      "name": "深夜赶稿型",
+      "tagline": "写完这一段，就犒劳自己",
+      "vector": {
+        "thrill": 6,
+        "sustain": 9,
+        "value": 7,
+        "refine": 4,
+        "steady": 4
+      },
+      "keywords": [
+        "夜宵补给",
+        "灵感",
+        "独处",
+        "犒劳",
+        "热乎的"
+      ],
+      "style_note": "安静内敛，强调「犒劳自己」，不美化熬夜",
+      "sample_line": "写完这一段，就允许自己吃点热乎的。"
+    },
+    {
+      "id": "w4",
+      "universe": "worker",
+      "name": "摸鱼艺术家型",
+      "tagline": "摸鱼是门手艺，讲究张弛有度",
+      "vector": {
+        "thrill": 5,
+        "sustain": 4,
+        "value": 9,
+        "refine": 7,
+        "steady": 6
+      },
+      "keywords": [
+        "摸鱼",
+        "小确幸",
+        "带薪快乐",
+        "张弛有度",
+        "工作流"
+      ],
+      "style_note": "偷着乐的语气，爱讲「刚好」「正好」",
+      "sample_line": "下午三点半的甜筒，是打工人发给自己的绩效。"
+    },
+    {
+      "id": "w5",
+      "universe": "worker",
+      "name": "会议缠身型",
+      "tagline": "一天八场会，全靠咖啡续命",
+      "vector": {
+        "thrill": 5,
+        "sustain": 5,
+        "value": 7,
+        "refine": 7,
+        "steady": 6
+      },
+      "keywords": [
+        "日程",
+        "多线程",
+        "礼貌微笑",
+        "午餐窗口",
+        "咖啡因"
+      ],
+      "style_note": "礼貌克制，永远「不好意思」开头",
+      "sample_line": "下一场会前十五分钟，是我的午餐窗口。"
+    },
+    {
+      "id": "w6",
+      "universe": "worker",
+      "name": "轻盈健身型",
+      "tagline": "练完了，吃点干净的",
+      "vector": {
+        "thrill": 4,
+        "sustain": 6,
+        "value": 6,
+        "refine": 8,
+        "steady": 9
+      },
+      "keywords": [
+        "高蛋白",
+        "干净饮食",
+        "500大卡",
+        "自律",
+        "练后餐"
+      ],
+      "style_note": "积极健康，讲营养素搭配",
+      "sample_line": "蛋白质拉满、热量可控，这顿练后餐及格了。"
+    },
+    {
+      "id": "c1",
+      "universe": "creator",
+      "name": "硬核极客型",
+      "tagline": "参数不对，饭都不香",
+      "vector": {
+        "thrill": 6,
+        "sustain": 5,
+        "value": 7,
+        "refine": 9,
+        "steady": 7
+      },
+      "keywords": [
+        "参数党",
+        "实测",
+        "折腾",
+        "工程美学",
+        "性价比曲线"
+      ],
+      "style_note": "严谨较真，结论必配数据",
+      "sample_line": "这个套餐的蛋白价比，我算过，能打。"
+    },
+    {
+      "id": "c2",
+      "universe": "creator",
+      "name": "匠人手作型",
+      "tagline": "慢一点，才有点东西",
+      "vector": {
+        "thrill": 4,
+        "sustain": 6,
+        "value": 6,
+        "refine": 9,
+        "steady": 8
+      },
+      "keywords": [
+        "手作",
+        "耐心",
+        "细节",
+        "慢工出细活"
+      ],
+      "style_note": "温和笃定，句子偏短",
+      "sample_line": "好的东西，和好的一餐，都急不来。"
+    },
+    {
+      "id": "c3",
+      "universe": "creator",
+      "name": "生活美学型",
+      "tagline": "氛围对了，吃什么都是对的",
+      "vector": {
+        "thrill": 3,
+        "sustain": 4,
+        "value": 7,
+        "refine": 10,
+        "steady": 6
+      },
+      "keywords": [
+        "氛围感",
+        "出片",
+        "仪式感",
+        "窗边位"
+      ],
+      "style_note": "抒情，爱描述光线和心情",
+      "sample_line": "窗边的位置配一杯拿铁，今天就没白过。"
+    },
+    {
+      "id": "c4",
+      "universe": "creator",
+      "name": "快节奏测评型",
+      "tagline": "什么都得试，试完就开讲",
+      "vector": {
+        "thrill": 8,
+        "sustain": 6,
+        "value": 8,
+        "refine": 6,
+        "steady": 4
+      },
+      "keywords": [
+        "上新雷达",
+        "第一手",
+        "敢说",
+        "开箱"
+      ],
+      "style_note": "高能快嘴，惊叹号多",
+      "sample_line": "新品到手三十秒，先咬一口再说结论！"
+    },
+    {
+      "id": "s1",
+      "universe": "streamer",
+      "name": "整活效果型",
+      "tagline": "节目效果大于天",
+      "vector": {
+        "thrill": 10,
+        "sustain": 5,
+        "value": 6,
+        "refine": 4,
+        "steady": 2
+      },
+      "keywords": [
+        "整活",
+        "名场面",
+        "效果拉满",
+        "观众姥爷"
+      ],
+      "style_note": "浮夸高调，永远在铺垫下一个包袱",
+      "sample_line": "家人们，今天这顿饭，效果直接拉满！"
+    },
+    {
+      "id": "s2",
+      "universe": "streamer",
+      "name": "技术教学型",
+      "tagline": "细节决定下限，思路决定上限",
+      "vector": {
+        "thrill": 5,
+        "sustain": 7,
+        "value": 6,
+        "refine": 8,
+        "steady": 9
+      },
+      "keywords": [
+        "教学",
+        "复盘",
+        "细节控",
+        "上分思路"
+      ],
+      "style_note": "循循善诱，爱用「注意看」",
+      "sample_line": "注意看，这个吃法的关键在酱料的分配。"
+    },
+    {
+      "id": "s3",
+      "universe": "streamer",
+      "name": "抽象梗王型",
+      "tagline": "懂的都懂，不懂的慢慢懂",
+      "vector": {
+        "thrill": 8,
+        "sustain": 4,
+        "value": 9,
+        "refine": 5,
+        "steady": 4
+      },
+      "keywords": [
+        "梗",
+        "抽象",
+        "接梗",
+        "弹幕文化"
+      ],
+      "style_note": "跳脱，爱谐音和反转",
+      "sample_line": "这顿饭怎么说呢——好活，当赏。"
+    },
+    {
+      "id": "s4",
+      "universe": "streamer",
+      "name": "陪伴唠嗑型",
+      "tagline": "陪你到下播，也陪你到吃饱",
+      "vector": {
+        "thrill": 3,
+        "sustain": 6,
+        "value": 8,
+        "refine": 7,
+        "steady": 7
+      },
+      "keywords": [
+        "陪伴",
+        "深夜电台",
+        "唠嗑",
+        "温情"
+      ],
+      "style_note": "温柔絮叨，像深夜电台",
+      "sample_line": "吃慢点，反正夜还长，我陪你聊聊。"
+    }
+  ],
+  "product_personas": [
+    {
+      "id": "p1",
+      "name": "巨无霸型",
+      "product": "巨无霸",
+      "tagline": "三层结构，扛住一切",
+      "keywords": [
+        "旗舰",
+        "厚重",
+        "经典",
+        "排面"
+      ],
+      "style_note": "大气稳重",
+      "sample_line": "有些场合，就是需要一个大块头镇场。",
+      "fallback_vector": {
+        "thrill": 4,
+        "sustain": 9.5,
+        "value": 4,
+        "refine": 5,
+        "steady": 6
+      }
+    },
+    {
+      "id": "p2",
+      "name": "麦辣堡型",
+      "product": "麦辣鸡腿汉堡",
+      "tagline": "温柔外表，火爆内核",
+      "keywords": [
+        "反差",
+        "火辣",
+        "带劲"
+      ],
+      "style_note": "外冷内热",
+      "sample_line": "看着平静，第一口就知道不好惹。",
+      "fallback_vector": {
+        "thrill": 9,
+        "sustain": 9,
+        "value": 4,
+        "refine": 4,
+        "steady": 3
+      }
+    },
+    {
+      "id": "p3",
+      "name": "麦旋风型",
+      "product": "奥利奥麦旋风",
+      "tagline": "快乐是搅出来的",
+      "keywords": [
+        "甜品",
+        "快乐",
+        "混合",
+        "童趣"
+      ],
+      "style_note": "活泼可爱",
+      "sample_line": "心情不好的时候，先把冰淇淋搅了再说。",
+      "fallback_vector": {
+        "thrill": 6,
+        "sustain": 4,
+        "value": 6,
+        "refine": 8,
+        "steady": 4
+      }
+    },
+    {
+      "id": "p4",
+      "name": "香芋派型",
+      "product": "香芋派",
+      "tagline": "外冷内热，内芯滚烫",
+      "keywords": [
+        "温柔",
+        "内秀",
+        "惊喜"
+      ],
+      "style_note": "绵软温和",
+      "sample_line": "别看它安安静静，里面全是热烈。",
+      "fallback_vector": {
+        "thrill": 4,
+        "sustain": 5,
+        "value": 8,
+        "refine": 7,
+        "steady": 5
+      }
+    },
+    {
+      "id": "p5",
+      "name": "麦辣鸡翅型",
+      "product": "麦辣鸡翅",
+      "tagline": "小身材，爆表辣度",
+      "keywords": [
+        "爆辣",
+        "上头",
+        "小而猛"
+      ],
+      "style_note": "短促带劲",
+      "sample_line": "两个就够，辣度自己心里有数。",
+      "fallback_vector": {
+        "thrill": 9.5,
+        "sustain": 5,
+        "value": 7,
+        "refine": 4,
+        "steady": 3
+      }
+    },
+    {
+      "id": "p6",
+      "name": "新地型",
+      "product": "朱古力新地",
+      "tagline": "三点一刻的小确幸",
+      "keywords": [
+        "甜品",
+        "午后",
+        "治愈"
+      ],
+      "style_note": "轻快",
+      "sample_line": "下午的事下午再说，先吃这口甜的。",
+      "fallback_vector": {
+        "thrill": 3,
+        "sustain": 3,
+        "value": 7,
+        "refine": 8,
+        "steady": 6
+      }
+    },
+    {
+      "id": "p7",
+      "name": "麦满分型",
+      "product": "猪柳麦满分",
+      "tagline": "清晨的秩序感",
+      "keywords": [
+        "早餐",
+        "规律",
+        "开工",
+        "元气"
+      ],
+      "style_note": "清爽利落",
+      "sample_line": "一天的开局，从热乎的麦满分开始。",
+      "fallback_vector": {
+        "thrill": 3,
+        "sustain": 6,
+        "value": 6,
+        "refine": 7,
+        "steady": 8
+      }
+    },
+    {
+      "id": "p8",
+      "name": "拿铁型",
+      "product": "拿铁",
+      "tagline": "温热引擎，静音运行",
+      "keywords": [
+        "咖啡",
+        "专注",
+        "续命",
+        "克制"
+      ],
+      "style_note": "安静克制",
+      "sample_line": "不说话的时候，就是在干活。",
+      "fallback_vector": {
+        "thrill": 2,
+        "sustain": 4,
+        "value": 5,
+        "refine": 9,
+        "steady": 8
+      }
+    },
+    {
+      "id": "p9",
+      "name": "鸡排型",
+      "product": "那么大鸡排",
+      "tagline": "一块解决战斗",
+      "keywords": [
+        "大份",
+        "管饱",
+        "实在"
+      ],
+      "style_note": "豪爽",
+      "sample_line": "别整花的，一大块，管饱。",
+      "fallback_vector": {
+        "thrill": 6,
+        "sustain": 8,
+        "value": 8,
+        "refine": 3,
+        "steady": 5
+      }
+    },
+    {
+      "id": "p10",
+      "name": "随心配型",
+      "product": "随心配",
+      "tagline": "万物皆可 1+1",
+      "keywords": [
+        "性价比之王",
+        "灵活",
+        "自由组合"
+      ],
+      "style_note": "精明利落",
+      "sample_line": "一加一，快乐翻倍，钱包不哭。",
+      "fallback_vector": {
+        "thrill": 4,
+        "sustain": 5,
+        "value": 10,
+        "refine": 4,
+        "steady": 6
+      }
+    }
+  ]
+}

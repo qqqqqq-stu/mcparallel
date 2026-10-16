@@ -1,0 +1,1106 @@
+{
+  "tool": "campaign-calendar",
+  "args": {},
+  "data": {
+    "currentTime": "2026-10-15 23:23:13",
+    "dailyList": [
+      {
+        "date": "2026-10-12",
+        "dateText": "2026年10月12日 往期回顾",
+        "events": [
+          {
+            "activityCode": "45f3",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "45f3",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "超值𝟗.𝟗元早餐两件套陪你开工啦😋",
+              "content": "早八的快乐，一堡一咖已就位🍔☕\n𝟏𝟎月𝟖日至𝟏𝟎月𝟐𝟏日\n🍔周一至周五早餐堡轮流上早班\n🤩今天这堡 明天那堡\n☕鲜萃咖啡搭档到位\n凭券两件套只要9.9元\n速戳👇快定好闹钟一起来吃",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/553a0a73cd1eacee7212515b7b071b90.jpg"
+              ],
+              "highlights": "9.9元超值早餐正式上新!",
+              "buttonText": "立即领券",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/06bce97d40953496675e67f9b08204e0.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDWebViewController&androidPageName=com.mcd.web.activity.BaseWebActivity&harmonyPageName=BaseWebViewPage&parameters=%7B%22url%22%3A%22https%3A%2F%2Fcdn.mcd.cn%2Fcms%2Fpages%2FmemberdayAPP.html%3Futm_source%3D125%26utm_campaign%3D26061203017%26utm_medium%3D05%22%7D&utm_source=125&utm_campaign=26061203017&utm_medium=05"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "7dgp",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "7dgp",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "乐享90分钟高质量亲子时间",
+              "content": "打造高质量陪伴时光🎊\n9本热门书籍且每月更新！\n更有开心乐园餐+随机玩具一份🎁\n好吃又好玩！快报名参加吧~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/63bd426f45860fbe26025234054bf773.png"
+              ],
+              "highlights": "快来打造属于你们的亲子阅读时间",
+              "buttonText": "立即预订",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/231e9e411dbacaf00e434f9721fe455b.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDReactNativeViewController&androidPageName=com.mcd.library.rn.McdReactNativeActivity&harmonyPageName=RNPage&parameters=%7B%22rctModule%22%3A%22mcdmall%22%2C%22rctModuleName%22%3A%22mallHappyMember%22%2C%22rctModuleParams%22%3A%7B%22spuId%22%3A%221830%22%2C%22shopId%22%3A%225%22%7D%7D"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-13",
+        "dateText": "2026年10月13日 往期回顾",
+        "events": [
+          {
+            "activityCode": "en70",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "en70",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "麦当劳 X PEACEMINUSONE",
+              "content": "GD同款联名复古棒球帽\n任意餐品消费加39.9元即可得\n经典红黄配色搭配复古轮廓，MV同款灵感重现\n更有标志性小雏菊刺绣图案点缀\n10月8日10:45开售\n更有APP专享积分抢先购10:40开抢\n与GD一起探索潮流新篇章🖤",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/689d30bef705f848fe1fd3cfc0f419b2.jpg"
+              ],
+              "highlights": "即刻入手GD同款复古棒球帽",
+              "buttonText": "立即抢购",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%7D&utm_source=125&utm_campaign=1787820593710&utm_medium=20"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-15",
+        "dateText": "2026年10月15日 今日",
+        "events": [
+          {
+            "activityCode": "cme8",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "cme8",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "麦当劳 X PEACEMINUSONE",
+              "content": "周边第二弹——联名徽章正式发售\n任意餐品消费加39.9元即可得\n集结MCD爱心、小雏菊和经典薯条元素🍟\n一套三枚🖤限量珍藏\n10月15日10:45开售\n更有APP专享积分抢先购10:40开抢",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/3120858b8460868281cdc39f9aae1578.jpg"
+              ],
+              "highlights": "联名徽章正式开售",
+              "buttonText": "立即抢购",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%7D&utm_source=125&utm_campaign=1787820593710&utm_medium=20"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "en70",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "en70",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "麦当劳 X PEACEMINUSONE",
+              "content": "GD同款联名复古棒球帽\n任意餐品消费加39.9元即可得\n经典红黄配色搭配复古轮廓，MV同款灵感重现\n更有标志性小雏菊刺绣图案点缀\n10月8日10:45开售\n更有APP专享积分抢先购10:40开抢\n与GD一起探索潮流新篇章🖤",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/689d30bef705f848fe1fd3cfc0f419b2.jpg"
+              ],
+              "highlights": "即刻入手GD同款复古棒球帽",
+              "buttonText": "立即抢购",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%7D&utm_source=125&utm_campaign=1787820593710&utm_medium=20"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "45f3",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "45f3",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "超值𝟗.𝟗元早餐两件套陪你开工啦😋",
+              "content": "早八的快乐，一堡一咖已就位🍔☕\n𝟏𝟎月𝟖日至𝟏𝟎月𝟐𝟏日\n🍔周一至周五早餐堡轮流上早班\n🤩今天这堡 明天那堡\n☕鲜萃咖啡搭档到位\n凭券两件套只要9.9元\n速戳👇快定好闹钟一起来吃",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/553a0a73cd1eacee7212515b7b071b90.jpg"
+              ],
+              "highlights": "9.9元超值早餐正式上新!",
+              "buttonText": "立即领券",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/06bce97d40953496675e67f9b08204e0.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDWebViewController&androidPageName=com.mcd.web.activity.BaseWebActivity&harmonyPageName=BaseWebViewPage&parameters=%7B%22url%22%3A%22https%3A%2F%2Fcdn.mcd.cn%2Fcms%2Fpages%2FmemberdayAPP.html%3Futm_source%3D125%26utm_campaign%3D26061203017%26utm_medium%3D05%22%7D&utm_source=125&utm_campaign=26061203017&utm_medium=05"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "185p",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "185p",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+              "content": "🆕韩式辣椒黄油风味酱\n韩式辣酱碰撞青梅，裹挟黄油香气\n鸡薯双全盒仅需15.9元起✨getGD同款花式比心\n🆕韩式烟熏芝士风味酱\n浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放\n蘸酱炸鸡仅需11.9元起🍗\n炸鸡薯饼蘸酱我全都喜欢！\n10月8日 10:30起正式开售⏰",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/01acad0d43f6f5c062d58eecd375e167.jpg"
+              ],
+              "highlights": "龙焰来袭！韩式新品开吃！",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%7D&utm_source=125&utm_campaign=1787820593710&utm_medium=20"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "939d",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "939d",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "麦当劳联动G-DRAGON ",
+              "content": "带来韩式风味系列新品❗️\n龙焰鸡腿堡三件套 26.9 元起即刻开吃🍔\n韩式辣酱搭配酥脆多汁鸡腿排🤤\n还可升级29.9元龙焰芝士棒鸡腿堡三件套，\n两根马苏里拉拉丝芝士条，热时双倍拉丝更过瘾🧀\n10月8日 10:30 准时开售⏰You lovin' it？",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/25809373fbf2e5f9bb9699195149b88a.jpg"
+              ],
+              "highlights": "8da888~Spicy~",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%7D&utm_source=125&utm_campaign=1787820593710&utm_medium=20"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "pns1",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "pns1",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+              "content": "🫐蓝莓爆爆珠麦旋风上新！\n💜清甜蓝莓碰上醇厚奶香，酸甜清爽。\n💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。\n😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！\n还在等什么，马上尝新~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/105121c86e1023b6cc4b7fb4754ca145.jpg"
+              ],
+              "highlights": "蓝莓清香一口爆开",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/8ab3240dd3659f492d46725c637224df.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22repc%22%3A%22G521950%22%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "2yf9",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "2yf9",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 2,
+              "themeColor": 0,
+              "text": "提醒我",
+              "subText": "05:00开始",
+              "color": "FFFFFF",
+              "buttonStyle": 1
+            },
+            "articleDto": {
+              "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+              "content": "返工别紧张，厚松饼堡让你松软一下🫵\n🥞甜甜松饼，软软口感\n🍁经典枫糖风味和浓郁巧克力味两款可选🍫\n10月8日起，指定套餐可享早餐卡6折优惠\n3件套到手只要15元起，快来优惠吃",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/76fc2955b74f7c69121d5299a0047ae1.jpg"
+              ],
+              "highlights": "巧克力味限时上新",
+              "buttonText": "立即抢购",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/f7155842a1f4f601dab10061948b618d.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22recc%22%3A%2233833%22%7D "
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "b429",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "b429",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+              "content": "地道浓醇黑巧，风味浓郁醇厚\n200目精细研磨工艺，触感丝滑如绒\n戳下方，速来解锁！",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/6142c8e169c5c3a97bf90047ca446a46.jpg"
+              ],
+              "highlights": "浓浓黑巧来啦！",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/d9aba0b18dad1daeda71879f959de17f.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22recc%22%3A%2233289%22%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "vf8f",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "vf8f",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 2,
+              "themeColor": 0,
+              "text": "提醒我",
+              "subText": "05:00开始",
+              "color": "FFFFFF",
+              "buttonStyle": 1
+            },
+            "articleDto": {
+              "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+              "content": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆\n🥪多款人气早餐主食随心挑选，满足你的多种需求\n✨清晨能量一键配齐，14.9元起，开启你的元气一天",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/0c9f4ae90aa1481bd5275588a0456869.jpg"
+              ],
+              "highlights": "一早现磨焕新",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/7a350c0dcb494f4f51f7f4526d8b6bd6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22recc%22%3A%2233289%22%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "9b4e",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "9b4e",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+              "content": "🩶灰焰圆筒酷爽上新！\n🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。\n✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。\n😋绵密与香脆层层交织，一口解锁甜酷反差！\n还在等什么，马上尝新~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/5236ca16c841a90eadb0daf4758a2945.jpg"
+              ],
+              "highlights": "灰白撞色",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/3b07ffd8bfe31d8886aaa696bb8b848f.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22repc%22%3A%22G521951%22%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "oskp",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "oskp",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "学生专属！49元150天麦金学期卡💳",
+              "content": "💰仅0.33元/天，到手150天吃麦特权！\n5️⃣折起吃超值四件套、6折吃早餐\n🛵每日两次满额免配，9.9元麦咖啡\n🦉开卡还送多邻国月卡，美味和学习一步到位\n👛新学期钱包不吃紧，开心吃麦快乐学习！",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/99e637e8b965cbb7895e102b5c25b0c2.png"
+              ],
+              "highlights": "开启省钱开心新学期",
+              "buttonText": "立即开卡",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/006af36a46d0109bbc741ce918c63027.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDPostDetailViewController&androidPageName=ComponentCms&androidPageAction=cms_detail&harmonyPageName=CMSDetailPage&parameters=%7B%22postDetailId%22%3A%22vMmnR4%22%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "5lz9",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "5lz9",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "过家家派对上线，快来一起解锁梦想职业",
+              "content": "过家家派对就要开始啦!\n萌娃cosplay梦想职业，精美职业服带回家\nDIY 创意手工，想象力在指尖自由绽放\n9月9日到店解锁过家家派对\n粉红姐姐带你玩转麦当劳，开启童趣一天~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/fd3efb9e2c3a89ba6aa8dfa4676aa333.jpg"
+              ],
+              "highlights": "过家家尊享版全新上线",
+              "buttonText": "立即预订",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/44298d2bf73e2907904385dfcb46a77a.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDReactNativeViewController&androidPageName=com.mcd.library.rn.McdReactNativeActivity&harmonyPageName=RNPage&parameters=%7B%22rctModule%22%3A%22mcdmall%22%2C%22rctModuleName%22%3A%22mallHappyMember%22%2C%22rctModuleParams%22%3A%7B%22spuId%22%3A%2211308%22%2C%22shopId%22%3A%225%22%7D%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "86i6",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "86i6",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+              "content": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起\n🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！\n✨一张麦金卡包揽全天吃麦特权\n6折早餐、9.9元麦咖啡、满额免配统统安排\n😋快来打卡美味，这场韩式盛宴等你加入！",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/b6da228249fab7761748bb6e24c50f93.jpg"
+              ],
+              "highlights": "29元起尝龙焰鸡腿堡四件套",
+              "buttonText": "立即开卡",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/4c4d75b6b13153e55c2d64e977814619.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22repc%22%3A%229900016309%22%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "7dgp",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "7dgp",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "乐享90分钟高质量亲子时间",
+              "content": "打造高质量陪伴时光🎊\n9本热门书籍且每月更新！\n更有开心乐园餐+随机玩具一份🎁\n好吃又好玩！快报名参加吧~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/63bd426f45860fbe26025234054bf773.png"
+              ],
+              "highlights": "快来打造属于你们的亲子阅读时间",
+              "buttonText": "立即预订",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/231e9e411dbacaf00e434f9721fe455b.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDReactNativeViewController&androidPageName=com.mcd.library.rn.McdReactNativeActivity&harmonyPageName=RNPage&parameters=%7B%22rctModule%22%3A%22mcdmall%22%2C%22rctModuleName%22%3A%22mallHappyMember%22%2C%22rctModuleParams%22%3A%7B%22spuId%22%3A%221830%22%2C%22shopId%22%3A%225%22%7D%7D"
+            },
+            "showType": 3
+          },
+          {
+            "activityCode": "3pma",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "3pma",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "快来一起参加麦麦派对吧！",
+              "content": "遛娃好去处🎉麦当劳趣读派对！\n6大环节，趣味互动✨\n好吃又好玩，快乐持续加倍！\n👇一起领取“读书小达人“证书吧~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/39e02c45a3b5d9febaf7ac3a5d03f0b9.png"
+              ],
+              "highlights": "好吃好玩都在麦当劳",
+              "buttonText": "去看看",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/f61afa2c9fabb56a99dc96a760783230.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDReactNativeViewController&androidPageName=com.mcd.library.rn.McdReactNativeActivity&parameters=%7B%22rctModule%22%3A%22mcdmall%22%2C%22rctModuleName%22%3A%22mallHappyMember%22%2C%22rctModuleParams%22%3A%7B%22spuId%22%3A%2210675%22%2C%22shopId%22%3A%225%22%7D%7D"
+            },
+            "showType": 3,
+            "activityRule": "1234"
+          }
+        ],
+        "today": true
+      },
+      {
+        "date": "2026-10-16",
+        "dateText": "2026年10月16日",
+        "events": [
+          {
+            "activityCode": "939d",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "939d",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "麦当劳联动G-DRAGON ",
+              "content": "带来韩式风味系列新品❗️\n龙焰鸡腿堡三件套 26.9 元起即刻开吃🍔\n韩式辣酱搭配酥脆多汁鸡腿排🤤\n还可升级29.9元龙焰芝士棒鸡腿堡三件套，\n两根马苏里拉拉丝芝士条，热时双倍拉丝更过瘾🧀\n10月8日 10:30 准时开售⏰You lovin' it？",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/25809373fbf2e5f9bb9699195149b88a.jpg"
+              ],
+              "highlights": "8da888~Spicy~",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%7D&utm_source=125&utm_campaign=1787820593710&utm_medium=20"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-17",
+        "dateText": "2026年10月17日",
+        "events": [
+          {
+            "activityCode": "6n6r",
+            "activityStage": 2,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "6n6r",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 2,
+              "themeColor": 0,
+              "text": "提醒我",
+              "color": "FFFFFF",
+              "buttonStyle": 1
+            },
+            "articleDto": {
+              "title": "预约麦金喜抽奖，🉐[积分霸王餐]",
+              "content": "宝子😸天上不会掉馅饼\n😆但麦麦会掉落免费汉堡~\n💪麦金喜抽[积分霸王餐]\n🍔龙焰鸡腿堡/麦辣鸡腿堡\n连续90天长期有效👇\n抽奖时间：10月17日 00:00开始⏰速戳预约！",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/c72221a195d4317584f17fec196e2562.jpg"
+              ],
+              "highlights": "想要，[积分霸王餐]来啦！",
+              "heatValue": 1055,
+              "buttonText": "提醒我",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/f42c00c8508e175d6ecd38b1cbc19bf4.png",
+              "appJumpUrl": ""
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-18",
+        "dateText": "2026年10月18日",
+        "events": [
+          {
+            "activityCode": "185p",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "185p",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "韩式风味蘸酱上新❤️就「酱」心有所「薯」",
+              "content": "🆕韩式辣椒黄油风味酱\n韩式辣酱碰撞青梅，裹挟黄油香气\n鸡薯双全盒仅需15.9元起✨getGD同款花式比心\n🆕韩式烟熏芝士风味酱\n浓郁芝香邂逅韩式香辛风味，烟熏香气层层释放\n蘸酱炸鸡仅需11.9元起🍗\n炸鸡薯饼蘸酱我全都喜欢！\n10月8日 10:30起正式开售⏰",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/01acad0d43f6f5c062d58eecd375e167.jpg"
+              ],
+              "highlights": "龙焰来袭！韩式新品开吃！",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%7D&utm_source=125&utm_campaign=1787820593710&utm_medium=20"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-20",
+        "dateText": "2026年10月20日",
+        "events": [
+          {
+            "activityCode": "2yf9",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "2yf9",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 2,
+              "themeColor": 0,
+              "text": "提醒我",
+              "subText": "05:00开始",
+              "color": "FFFFFF",
+              "buttonStyle": 1
+            },
+            "articleDto": {
+              "title": "早餐爆款回归，快来pick你的厚松饼堡！📣",
+              "content": "返工别紧张，厚松饼堡让你松软一下🫵\n🥞甜甜松饼，软软口感\n🍁经典枫糖风味和浓郁巧克力味两款可选🍫\n10月8日起，指定套餐可享早餐卡6折优惠\n3件套到手只要15元起，快来优惠吃",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/76fc2955b74f7c69121d5299a0047ae1.jpg"
+              ],
+              "highlights": "巧克力味限时上新",
+              "buttonText": "立即抢购",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/f7155842a1f4f601dab10061948b618d.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22recc%22%3A%2233833%22%7D "
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-21",
+        "dateText": "2026年10月21日",
+        "events": [
+          {
+            "activityCode": "b429",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "b429",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "🍫麦咖啡13.9r浓浓黑巧来啦！",
+              "content": "地道浓醇黑巧，风味浓郁醇厚\n200目精细研磨工艺，触感丝滑如绒\n戳下方，速来解锁！",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/6142c8e169c5c3a97bf90047ca446a46.jpg"
+              ],
+              "highlights": "浓浓黑巧来啦！",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/d9aba0b18dad1daeda71879f959de17f.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22recc%22%3A%2233289%22%7D"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-22",
+        "dateText": "2026年10月22日",
+        "events": [
+          {
+            "activityCode": "m228",
+            "activityStage": 2,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "m228",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 2,
+              "themeColor": 0,
+              "text": "提醒我",
+              "color": "FFFFFF",
+              "buttonStyle": 1
+            },
+            "articleDto": {
+              "title": "第三周周边即将开售✨限定主题丝巾！",
+              "content": "丝巾搭配棒球帽的潮流谁懂😎\n麦当劳「我就喜欢」限定丝巾\n任意餐品消费加 39.9 元即可得\n颈间、包袋、手腕、头饰一巾多玩🤔\n叠搭联名棒球帽&徽章随心玩出专属潮流造型✨\n10月22日10:45开售\n更有APP专享积分抢先购10:40开抢\nget时尚icon同款潮流造型",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/fb40c37c172886ee1235c2ed21f3bde4.jpg"
+              ],
+              "highlights": "想抢，时尚DNA动了！",
+              "heatValue": 1864,
+              "buttonText": "提醒我",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/951c1420fa82f73e6757395a933b68c6.png"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-24",
+        "dateText": "2026年10月24日",
+        "events": [
+          {
+            "activityCode": "9b4e",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "9b4e",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "🩶灰白撞色，灰焰圆筒酷爽登场",
+              "content": "🩶灰焰圆筒酷爽上新！\n🍦浓郁香草味碰上酷灰脆筒，灰白撞色吸睛。\n✨入口绵密丝滑，一口咬下筒壳咔嚓酥脆。\n😋绵密与香脆层层交织，一口解锁甜酷反差！\n还在等什么，马上尝新~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/5236ca16c841a90eadb0daf4758a2945.jpg"
+              ],
+              "highlights": "灰白撞色",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/3b07ffd8bfe31d8886aaa696bb8b848f.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22repc%22%3A%22G521951%22%7D"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-25",
+        "dateText": "2026年10月25日",
+        "events": [
+          {
+            "activityCode": "pns1",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "pns1",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "🫐一口爆汁！蓝莓爆爆珠麦旋风上新",
+              "content": "🫐蓝莓爆爆珠麦旋风上新！\n💜清甜蓝莓碰上醇厚奶香，酸甜清爽。\n💥真实蓝莓原浆x爆爆珠，颗颗爆汁好惊喜。\n😋绵密冰淇淋撞上弹爽口感，莓好滋味层层爆开！\n还在等什么，马上尝新~",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/105121c86e1023b6cc4b7fb4754ca145.jpg"
+              ],
+              "highlights": "蓝莓清香一口爆开",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/8ab3240dd3659f492d46725c637224df.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22repc%22%3A%22G521950%22%7D"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-26",
+        "dateText": "2026年10月26日",
+        "events": [
+          {
+            "activityCode": "vf8f",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "vf8f",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 2,
+              "themeColor": 0,
+              "text": "提醒我",
+              "subText": "05:00开始",
+              "color": "FFFFFF",
+              "buttonStyle": 1
+            },
+            "articleDto": {
+              "title": "麦咖啡一早现磨🥳元气早餐震撼来袭！",
+              "content": "☕甄选 2024IIAC 国际咖啡品鉴大赛“金奖“咖啡豆\n🥪多款人气早餐主食随心挑选，满足你的多种需求\n✨清晨能量一键配齐，14.9元起，开启你的元气一天",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/0c9f4ae90aa1481bd5275588a0456869.jpg"
+              ],
+              "highlights": "一早现磨焕新",
+              "buttonText": "立即购买",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/7a350c0dcb494f4f51f7f4526d8b6bd6.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22recc%22%3A%2233289%22%7D"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-28",
+        "dateText": "2026年10月28日",
+        "events": [
+          {
+            "activityCode": "86i6",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "86i6",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "“韩”风刮到了四件套~龙焰鸡腿堡来袭！",
+              "content": "🍔麦金卡点「龙焰鸡腿堡」四件套29元起\n🍗韩式辣酱碰撞青梅黄油，爆脆鸡腿排多汁裹酱！\n✨一张麦金卡包揽全天吃麦特权\n6折早餐、9.9元麦咖啡、满额免配统统安排\n😋快来打卡美味，这场韩式盛宴等你加入！",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/b6da228249fab7761748bb6e24c50f93.jpg"
+              ],
+              "highlights": "29元起尝龙焰鸡腿堡四件套",
+              "buttonText": "立即开卡",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/4c4d75b6b13153e55c2d64e977814619.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDProductListViewController&androidPageName=ComponentProduct&androidPageAction=menu_list&harmonyPageName=ProductListPage&parameters=%7B%22orderType%22%3A%221%22%2C%22repc%22%3A%229900016309%22%7D"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      },
+      {
+        "date": "2026-10-30",
+        "dateText": "2026年10月30日",
+        "events": [
+          {
+            "activityCode": "oskp",
+            "activityStage": 3,
+            "eventType": 4,
+            "subscribeScene": "CAMPAIGN_CALENDAR",
+            "resourceId": "oskp",
+            "position": "2",
+            "showStyle": 0,
+            "activityTitle": "",
+            "bannerTitleColor": "",
+            "activityTag": "",
+            "price": "0",
+            "priceSuffix": "起",
+            "activitySubTitle": "",
+            "activityBgColor": "B1B1B1",
+            "button": {
+              "status": 1,
+              "text": "",
+              "color": "",
+              "buttonStyle": 0
+            },
+            "articleDto": {
+              "title": "学生专属！49元150天麦金学期卡💳",
+              "content": "💰仅0.33元/天，到手150天吃麦特权！\n5️⃣折起吃超值四件套、6折吃早餐\n🛵每日两次满额免配，9.9元麦咖啡\n🦉开卡还送多邻国月卡，美味和学习一步到位\n👛新学期钱包不吃紧，开心吃麦快乐学习！",
+              "imgList": [
+                "https://cms-cdn.mcd.cn/img/short-content/99e637e8b965cbb7895e102b5c25b0c2.png"
+              ],
+              "highlights": "开启省钱开心新学期",
+              "buttonText": "立即开卡",
+              "buttonIcon": "https://cms-cdn.mcd.cn/img/short-content/006af36a46d0109bbc741ce918c63027.png",
+              "appJumpUrl": "mcdapp://page?iosPageName=MCDPostDetailViewController&androidPageName=ComponentCms&androidPageAction=cms_detail&harmonyPageName=CMSDetailPage&parameters=%7B%22postDetailId%22%3A%22vMmnR4%22%7D"
+            },
+            "showType": 3
+          }
+        ],
+        "today": false
+      }
+    ],
+    "subscribedEvents": []
+  }
+}

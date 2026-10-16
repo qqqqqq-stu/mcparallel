@@ -1,0 +1,79 @@
+{
+  "tool": "query-lottery-info",
+  "args": {},
+  "data": {
+    "status": {
+      "code": "SUCCESS",
+      "message": "成功"
+    },
+    "activityCode": "dtx2",
+    "activityStatusText": "进行中",
+    "activityName": "麦麦积分抽奖",
+    "beginTime": "2025-01-26 00:00:00",
+    "endTime": "2030-12-31 23:59:59",
+    "drawPoint": "24",
+    "drawTypeText": "消耗积分抽奖",
+    "availablePoint": "429.6",
+    "drawDecision": {
+      "resourceEligible": true,
+      "nextConsumption": {
+        "type": "POINTS",
+        "points": "24",
+        "chances": 0,
+        "text": "本次将消耗 24 积分"
+      }
+    },
+    "prizes": [
+      {
+        "name": "下单立减3元券",
+        "imageUrl": "https://img.mcd.cn/gallery/ce3b2ebc8f729b18.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "下单立减2元券",
+        "imageUrl": "https://img.mcd.cn/gallery/05e92c61916ad743.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "下单立减1元券",
+        "imageUrl": "https://img.mcd.cn/gallery/0c99483d7c138087.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "麦辣三件套5折券",
+        "imageUrl": "https://img.mcd.cn/gallery/e74fa061787ebe92.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "板烧三件套5折券",
+        "imageUrl": "https://img.mcd.cn/gallery/e74fa061787ebe92.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "双层鳕鱼三件套6折券",
+        "imageUrl": "https://img.mcd.cn/gallery/6a840cacdc3ba372.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "甜辣小食组合5折券",
+        "imageUrl": "https://img.mcd.cn/gallery/e74fa061787ebe92.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "小食四件套5.5折券",
+        "imageUrl": "https://img.mcd.cn/gallery/b0300a3c60adbb80.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "麦旋风5折券",
+        "imageUrl": "https://img.mcd.cn/gallery/9c0a2a5cf2791217.png",
+        "typeText": "优惠券"
+      },
+      {
+        "name": "30积分",
+        "imageUrl": "https://img.mcd.cn/gallery/a09ad4c57399cd45.png",
+        "typeText": "积分奖"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "tool": "calculate-price",
+  "args": {
+    "storeCode": "1450713",
+    "orderType": 1,
+    "beType": 1,
+    "items": [
+      {
+        "productCode": "1100",
+        "quantity": 1
+      }
+    ]
+  },
+  "data": {
+    "productOriginalPrice": 2550,
+    "productPrice": 2550,
+    "originalPrice": 2550,
+    "discount": 0,
+    "price": 2550,
+    "productList": [
+      {
+        "productCode": "1100",
+        "productName": "巨无霸",
+        "quantity": 1,
+        "originalSubtotal": 2550,
+        "subtotal": 2550
+      }
+    ],
+    "takeWayList": [
+      {
+        "code": "locker-out",
+        "title": "外带",
+        "subtitle": "店外取餐柜"
+      }
+    ]
+  }
+}

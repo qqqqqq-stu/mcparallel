@@ -1,0 +1,24 @@
+# ===== 密钥与环境变量（绝对禁止提交）=====
+.env
+*.key
+*.token
+
+# ===== MCP 探测原始数据（含账号隐私：地址/积分/订单/奖品，仅本地参考）=====
+docs/probe/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ===== Node =====
+node_modules/
+dist/
+
+# ===== IDE / 系统 =====
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+docs/internal/

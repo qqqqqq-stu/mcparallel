@@ -1,0 +1,63 @@
+> **WorkBuddy 安装**：将整个 `skills/mcparallel/` 目录复制到 WorkBuddy 技能目录
+> （`~/.workbuddy/skills/`，Windows 为 `%USERPROFILE%\.workbuddy\skills\`），并在连接器中配置麦当劳 MCP
+> （`https://mcp.mcd.cn` + 你的 Token，见仓库 `mcp-config.example.json`）。
+> 完整 CLI 引擎、人格库数据与离线 Demo 在主仓库：<https://github.com/qqqqqq-stu/mcparallel>
+
+# SKILL.md · 麦门平行宇宙 McParallel
+
+> 基于麦当劳官方 MCP 的三合一 AI 点餐 Skill：决定吃什么（三连抽+优惠引擎）× 你是谁（六宇宙人格鉴定）× 怎么吃最值（高性价比指南）。
+
+## 触发条件
+
+用户消息命中以下任一意图时激活本技能：
+
+| 意图 | 示例话术 |
+|---|---|
+| 不知道吃什么 / 抽卡 | "不知道吃什么"、"帮我抽一签"、"抽三张牌" |
+| 人格测试 | "测测我的麦人格"、"我是哪种麦门人"、"鉴定一下我" |
+| 正向匹配 | "峡谷刺客型会吃什么"、"TA 最可能点什么" |
+| 吃麦攻略 | "怎么吃麦当劳最划算"、"健身怎么吃麦"、"25 块怎么吃饱"、"麦当劳攻略" |
+| 抽奖咨询 | "积分抽奖有什么奖品"、"抽一次要多少积分" |
+
+## 执行流程
+
+### 路径 A · 三连抽（默认娱乐入口）
+1. `query-nearby-stores(beType=1, searchType=2, city=用户城市)` 定位门店取 `storeCode`（用户未给城市时询问）。
+2. `query-meals(storeCode, orderType=1, beType=1)` 拉实时菜单，按官方分类归入主食/小吃/饮品三池（排除徽章/玩具/酱料等非食品）。
+3. 若用户已有鉴定结果（会话内记忆），用其人格向量加权抽取；否则均匀抽取。
+4. 输出三张牌（场景签文案 + 三件单品）。
+5. **优惠引擎**：`query-meal-detail` 解析随心配蓝/粉区 → 三路径比价（直接单点 `calculate-price` 实算 / 1+1 组合 / 券提示 `query-store-coupons`）→ 输出最省钱路径与共省金额。
+6. 顺势引导："想知道你抽到的这餐暴露了什么人格吗？" → 路径 B。
+
+### 路径 B · 麦人格鉴定
+1. 用户选宇宙：🍔 单品人格 / 🎮 游戏战术 / 💼 打工人 / 🧠 麦门16型 / 🎬 创作者 / 🎤 主播风格。
+2. 逐题展示 3 道场景题（16型为 4 道字母题），选项见 `data/quiz.json`。
+3. 答案聚合为口味五维向量（刺激/续航/性价比/精致/稳健），与该宇宙人格做中心化余弦匹配。
+4. 输出**麦门身份卡**：人格名 + 契合度% + 五维雷达 + 适配套餐（`list-nutrition-foods` 营养量化 + `calculate-price` 真实算价 + `query-store-coupons` 叠券）+ 专属省钱 tip。
+5. 身份卡附带分享文案，引导用户传播。
+
+### 路径 C · 高性价比指南
+1. 按人群给定制方案：健身（高碳/低碳日，`list-nutrition-foods` 计算）、减脂（≤500 kcal 清单 + 官方 500 大卡套餐）、学生党（kcal/元排行 + 预算搜索 `calculate-price` 实算）、打工人（`campaign-calendar` 活动联动）。
+2. 主动提示：`available-coupons` 当前可领券；经用户确认后可 `auto-bind-coupons` 一键领取。
+3. 指向 `GUIDE.md` 完整指南。
+
+## 工具纪律（必须遵守）
+
+- **只读工具**（自由调用）：`query-meals`、`query-meal-detail`、`list-nutrition-foods`、`query-nearby-stores`、`calculate-price`、`query-store-coupons`、`available-coupons`、`campaign-calendar`、`query-lottery-info`、`now-time-info`。
+- **确认制工具**（必须先展示内容、获用户明确同意后才调用）：`auto-bind-coupons`（领券）、`draw-lottery`（抽奖——必须先展示 `query-lottery-info` 的 `drawDecision.nextConsumption` 消耗提示）、`create-order`/`cancel-order`（下单/取消）。
+- **禁止调用**：`delivery-create-address` 等写地址类（用户未主动提供完整信息时）。
+- 到店自提（beType=1）**不传 beCode**；价格接口返回单位为**分**，展示前除以 100。
+
+## 表达与安全规则
+
+1. 人格文案以 `data/personas.json` 的原创原型设定为准，**绝不**生成真实人物名、游戏角色名、作品名或其他品牌名。
+2. 不出现占卜/算命/运势表述——抽卡是纯随机娱乐，场景签是生活场景。
+3. 熬夜/大餐场景用"犒劳自己"框架，不美化不健康饮食；健康相关表述参考 `GUIDE.md` 声明。
+4. 用户个人信息（地址/订单/积分）只在用户请求的上下文中使用，不存储不外传。
+5. 输出的餐品信息、价格与供应状态注明"以麦当劳官方渠道实时为准"。
+
+## 失败处理
+
+- MCP 调用失败（401/429/超时）：向用户说明网络/额度问题，建议稍后重试；不编造数据。
+- 菜单时段导致单品缺失：说明"当前时段菜单"，换推荐候选。
+- 用户城市无门店：提示换个城市或到店自提场景重试。

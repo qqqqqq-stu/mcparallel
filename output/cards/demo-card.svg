@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1680" viewBox="0 0 1200 1680">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1b2a"/><stop offset="1" stop-color="#15151f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1680" fill="url(#bg)"/>
+  <rect x="24" y="24" width="1152" height="1632" rx="28" fill="none" stroke="#DA291C" stroke-width="4"/>
+
+  <!-- 头部 -->
+  <text x="70" y="86" fill="#FFC72C" font-size="30" font-weight="bold">🍔 麦门平行宇宙 McParallel</text>
+  <text x="1130" y="86" fill="#a8a8b3" font-size="24" text-anchor="end">🎮 游戏战术</text>
+  <line x1="70" y1="110" x2="1130" y2="110" stroke="#3a3a4e" stroke-width="2"/>
+
+  <!-- 人格名与契合度 -->
+  <text x="70" y="208" fill="#f5f5f7" font-size="64" font-weight="bold">极限翻盘型</text>
+  <text x="70" y="258" fill="#a8a8b3" font-size="28">「逆风才好玩，翻盘才叫赢」</text>
+  <rect x="880" y="150" width="250" height="96" rx="20" fill="#DA291C"/>
+  <text x="1005" y="192" fill="#fff" font-size="26" text-anchor="middle">契合度</text>
+  <text x="1005" y="230" fill="#fff" font-size="42" font-weight="bold" text-anchor="middle">99%</text>
+
+  <!-- 雷达图 -->
+  <polygon points="600.0,518.0 639.9,547.0 624.7,594.0 575.3,594.0 560.1,547.0" fill="none" stroke="#3a3a4e" stroke-width="1"/><polygon points="600.0,476.0 679.9,534.0 649.4,628.0 550.6,628.0 520.1,534.0" fill="none" stroke="#3a3a4e" stroke-width="1"/><polygon points="600.0,434.0 719.8,521.1 674.1,661.9 525.9,661.9 480.2,521.1" fill="none" stroke="#3a3a4e" stroke-width="1"/><polygon points="600.0,392.0 759.8,508.1 698.7,695.9 501.3,695.9 440.2,508.1" fill="none" stroke="#3a3a4e" stroke-width="1"/><polygon points="600.0,350.0 799.7,495.1 723.4,729.9 476.6,729.9 400.3,495.1" fill="none" stroke="#3a3a4e" stroke-width="1"/><line x1="600" y1="560" x2="600.0" y2="350.0" stroke="#3a3a4e" stroke-width="1"/><text x="600.0" y="316.0" fill="#a8a8b3" font-size="22" text-anchor="middle" dominant-baseline="middle">刺激</text><line x1="600" y1="560" x2="799.7" y2="495.1" stroke="#3a3a4e" stroke-width="1"/><text x="832.1" y="484.6" fill="#a8a8b3" font-size="22" text-anchor="start" dominant-baseline="middle">续航</text><line x1="600" y1="560" x2="723.4" y2="729.9" stroke="#3a3a4e" stroke-width="1"/><text x="743.4" y="757.4" fill="#a8a8b3" font-size="22" text-anchor="start" dominant-baseline="middle">性价比</text><line x1="600" y1="560" x2="476.6" y2="729.9" stroke="#3a3a4e" stroke-width="1"/><text x="456.6" y="757.4" fill="#a8a8b3" font-size="22" text-anchor="end" dominant-baseline="middle">精致</text><line x1="600" y1="560" x2="400.3" y2="495.1" stroke="#3a3a4e" stroke-width="1"/><text x="367.9" y="484.6" fill="#a8a8b3" font-size="22" text-anchor="end" dominant-baseline="middle">稳健</text><polygon points="600.0,371.0 739.8,514.6 661.7,644.9 550.6,628.0 540.1,540.5" fill="none" stroke="#DA291C" stroke-width="2.5" stroke-dasharray="7 5"/><polygon points="600.0,356.3 727.8,518.5 665.4,650.0 533.3,651.7 518.1,533.4" fill="#FFC72C" fill-opacity="0.28" stroke="#FFC72C" stroke-width="3"/>
+  <text x="90" y="830" fill="#a8a8b3" font-size="20">— — 人格口味画像　● 你的口味向量</text>
+
+  <!-- 五维条形 -->
+  <text x="70" y="880" fill="#FFC72C" font-size="26" font-weight="bold">你的麦门口味五维</text>
+  <text x="90" y="918" fill="#f5f5f7" font-size="20">刺激</text><rect x="150" y="904" width="640" height="16" rx="8" fill="#2c2c40"/><rect x="150" y="904" width="621" height="16" rx="8" fill="#FFC72C"/><text x="802" y="918" fill="#a8a8b3" font-size="20">9.7</text><text x="90" y="958" fill="#f5f5f7" font-size="20">续航</text><rect x="150" y="944" width="640" height="16" rx="8" fill="#2c2c40"/><rect x="150" y="944" width="410" height="16" rx="8" fill="#FFC72C"/><text x="802" y="958" fill="#a8a8b3" font-size="20">6.4</text><text x="90" y="998" fill="#f5f5f7" font-size="20">性价比</text><rect x="150" y="984" width="640" height="16" rx="8" fill="#2c2c40"/><rect x="150" y="984" width="339" height="16" rx="8" fill="#FFC72C"/><text x="802" y="998" fill="#a8a8b3" font-size="20">5.3</text><text x="90" y="1038" fill="#f5f5f7" font-size="20">精致</text><rect x="150" y="1024" width="640" height="16" rx="8" fill="#2c2c40"/><rect x="150" y="1024" width="346" height="16" rx="8" fill="#FFC72C"/><text x="802" y="1038" fill="#a8a8b3" font-size="20">5.4</text><text x="90" y="1078" fill="#f5f5f7" font-size="20">稳健</text><rect x="150" y="1064" width="640" height="16" rx="8" fill="#2c2c40"/><rect x="150" y="1064" width="262" height="16" rx="8" fill="#FFC72C"/><text x="802" y="1078" fill="#a8a8b3" font-size="20">4.1</text>
+
+  <!-- 适配套餐 -->
+  <text x="70" y="1110" fill="#FFC72C" font-size="26" font-weight="bold">TA 会点什么（实时菜单适配）</text>
+  <text x="90" y="1150" fill="#f5f5f7" font-size="26"><tspan fill="#FFC72C" font-size="22">1.</tspan> “辣”么快乐套餐<tspan fill="#a8a8b3" font-size="22" dx="16">¥24.0</tspan></text><text x="90" y="1204" fill="#f5f5f7" font-size="26"><tspan fill="#FFC72C" font-size="22">2.</tspan> 韩式甜辣酱鸡块8块<tspan fill="#a8a8b3" font-size="22" dx="16">¥19.9</tspan></text><text x="90" y="1258" fill="#f5f5f7" font-size="26"><tspan fill="#FFC72C" font-size="22">3.</tspan> 麦辣鸡翅<tspan fill="#a8a8b3" font-size="22" dx="16">¥15.0</tspan></text>
+
+  <!-- 省钱 tip -->
+  <rect x="70" y="1280" width="1060" height="100" rx="16" fill="#1f1f2e"/>
+  <text x="94" y="1318" fill="#FFC72C" font-size="24" font-weight="bold">💡 专属省钱 tip</text>
+  <text x="94" y="1352" fill="#f5f5f7" font-size="24">麦辣系列走 1+1 蓝区（麦香鸡/双层吉士可选），饮料换无糖可乐，刺激不减、钱包减负。</text>
+
+  <!-- 推荐文案 -->
+  <rect x="70" y="1400" width="1060" height="130" rx="16" fill="#1f1f2e"/>
+  <text x="94" y="1438" fill="#FFC72C" font-size="24" font-weight="bold">✍️ 人格推荐语</text>
+  <text x="94" y="1474" fill="#f5f5f7" font-size="24">0 比 5 开局的晚餐，照样能打出翻盘的味道。“辣”么快乐套餐这套够劲、扛饿，正好长在你的口味雷达上。再配一份韩式甜辣酱鸡块8块</text>
+  <text x="94" y="1506" fill="#f5f5f7" font-size="24">，今日份的极限翻盘含量达标。</text>
+
+  <!-- 页脚 -->
+  <line x1="70" y1="1560" x2="1130" y2="1560" stroke="#3a3a4e" stroke-width="2"/>
+  <text x="70" y="1596" fill="#a8a8b3" font-size="20">数据来源：麦当劳官方 MCP（实时菜单/营养/价格） · 菜品与价格以官方渠道实时为准</text>
+  <text x="70" y="1628" fill="#a8a8b3" font-size="20">麦门平行宇宙 · 参赛作品（非官方产品） · 内容仅供娱乐，健康饮食请均衡搭配</text>
+  <text x="1130" y="1628" fill="#a8a8b3" font-size="20" text-anchor="end">mcparallel · g5</text>
+</svg>
